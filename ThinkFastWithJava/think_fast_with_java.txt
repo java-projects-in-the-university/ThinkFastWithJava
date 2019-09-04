@@ -1,0 +1,17 @@
+Welcome player to our first game ever.
+In this game you will know how good you are in Java
+Programming. 
+All you have to do is to find errors in the code that we will 
+provide gladly and specially for you, 
+you will write your answers in text Fields then click next so
+another code will appear
+ Note* : you only write the symbol of the error or the missing part 
+and nothing else...  like this  ;   and  {  and so on.
+Each Question has two Answers and each Answer has two points.
+Don't worry you can repeat The level you are playing if you didn't 
+achieve the right points
+And yes we forgot to tell you about the most important thing
+ There is time running while you are playing so try to answer 
+quickly.
+Here is a last Advice from us :
+Relax and don't  panic, you will get it
